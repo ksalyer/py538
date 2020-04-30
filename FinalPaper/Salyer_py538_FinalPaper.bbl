@@ -1,0 +1,264 @@
+%merlin.mbs apsrev4-1.bst 2010-07-25 4.21a (PWD, AO, DPC) hacked
+%Control: key (0)
+%Control: author (72) initials jnrlst
+%Control: editor formatted (1) identically to author
+%Control: production of article title (-1) disabled
+%Control: page (0) single
+%Control: year (1) truncated
+%Control: production of eprint (0) enabled
+\begin{thebibliography}{26}%
+\makeatletter
+\providecommand \@ifxundefined [1]{%
+ \@ifx{#1\undefined}
+}%
+\providecommand \@ifnum [1]{%
+ \ifnum #1\expandafter \@firstoftwo
+ \else \expandafter \@secondoftwo
+ \fi
+}%
+\providecommand \@ifx [1]{%
+ \ifx #1\expandafter \@firstoftwo
+ \else \expandafter \@secondoftwo
+ \fi
+}%
+\providecommand \natexlab [1]{#1}%
+\providecommand \enquote  [1]{``#1''}%
+\providecommand \bibnamefont  [1]{#1}%
+\providecommand \bibfnamefont [1]{#1}%
+\providecommand \citenamefont [1]{#1}%
+\providecommand \href@noop [0]{\@secondoftwo}%
+\providecommand \href [0]{\begingroup \@sanitize@url \@href}%
+\providecommand \@href[1]{\@@startlink{#1}\@@href}%
+\providecommand \@@href[1]{\endgroup#1\@@endlink}%
+\providecommand \@sanitize@url [0]{\catcode `\\12\catcode `\$12\catcode
+  `\&12\catcode `\#12\catcode `\^12\catcode `\_12\catcode `\%12\relax}%
+\providecommand \@@startlink[1]{}%
+\providecommand \@@endlink[0]{}%
+\providecommand \url  [0]{\begingroup\@sanitize@url \@url }%
+\providecommand \@url [1]{\endgroup\@href {#1}{\urlprefix }}%
+\providecommand \urlprefix  [0]{URL }%
+\providecommand \Eprint [0]{\href }%
+\providecommand \doibase [0]{http://dx.doi.org/}%
+\providecommand \selectlanguage [0]{\@gobble}%
+\providecommand \bibinfo  [0]{\@secondoftwo}%
+\providecommand \bibfield  [0]{\@secondoftwo}%
+\providecommand \translation [1]{[#1]}%
+\providecommand \BibitemOpen [0]{}%
+\providecommand \bibitemStop [0]{}%
+\providecommand \bibitemNoStop [0]{.\EOS\space}%
+\providecommand \EOS [0]{\spacefactor3000\relax}%
+\providecommand \BibitemShut  [1]{\csname bibitem#1\endcsname}%
+\let\auto@bib@innerbib\@empty
+%</preamble>
+\bibitem [{\citenamefont {Botzen}\ \emph {et~al.}(2019)\citenamefont {Botzen},
+  \citenamefont {Deschenes},\ and\ \citenamefont {Sanders}}]{BotzenPaper}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {W.~J.~W.}\
+  \bibnamefont {Botzen}}, \bibinfo {author} {\bibfnamefont {O.}~\bibnamefont
+  {Deschenes}}, \ and\ \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Sanders}},\ }\href {\doibase 10.1093/reep/rez004} {\bibfield  {journal}
+  {\bibinfo  {journal} {Review of Environmental Economics and Policy}\ }\textbf
+  {\bibinfo {volume} {13}},\ \bibinfo {pages} {167} (\bibinfo {year} {2019})},\
+  \Eprint
+  {http://arxiv.org/abs/https://academic.oup.com/reep/article-pdf/13/2/167/29105777/rez004.pdf}
+  {https://academic.oup.com/reep/article-pdf/13/2/167/29105777/rez004.pdf}
+  \BibitemShut {NoStop}%
+\bibitem [{\citenamefont {{The Editors of Encyclopaedia
+  Britannica}}(2020)}]{Katrina_encyclopedia}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {{The Editors of
+  Encyclopaedia Britannica}}},\ }\href
+  {https://www.britannica.com/event/Hurricane-Katrina} {\bibfield  {journal}
+  {\bibinfo  {journal} {Encyclopaedia Britannica}\ } (\bibinfo {year}
+  {2020})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Vidgor}(2008)}]{VigdorPaper}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Vidgor}},\ }\href {\doibase 10.1257/jep.22.4.135} {\bibfield  {journal}
+  {\bibinfo  {journal} {Journal of Economic Perspectives}\ }\textbf {\bibinfo
+  {volume} {22}},\ \bibinfo {pages} {135} (\bibinfo {year} {2008})},\ \Eprint
+  {http://arxiv.org/abs/https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.22.4.135}
+  {https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.22.4.135} \BibitemShut
+  {NoStop}%
+\bibitem [{Kat(09)}]{Katrina_oil}%
+  \BibitemOpen
+  \href@noop {} {\enquote {\bibinfo {title} {{{Ten Years Later: Oil Rig Safety
+  Lessons Learned from Hurricane Katrina}}},}\ } (\bibinfo {year} {09}),\
+  \Eprint
+  {http://arxiv.org/abs/https://www.ishn.com/articles/102193-ten-years-later-oil-rig-safety-lessons-learned-from-hurricane-katrina?v=preview}
+  {https://www.ishn.com/articles/102193-ten-years-later-oil-rig-safety-lessons-learned-from-hurricane-katrina?v=preview}
+  \BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Amadeo}(2020{\natexlab{a}})}]{Katrina_oil_balance}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {K.}~\bibnamefont
+  {Amadeo}},\ }\href
+  {https://www.thebalance.com/hurricane-katrina-facts-damage-and-economic-effects-3306023}
+  {\enquote {\bibinfo {title} {{{Why Was Hurricane Katrina so Damaging to New
+  Orleans, and the World?}}}}\ } (\bibinfo {year}
+  {2020}{\natexlab{a}})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {{U.S. Department of Energy's Office of Fossil
+  Energy}}(2006)}]{Katrina_naturalGas}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {{U.S. Department of
+  Energy's Office of Fossil Energy}}},\ }\href
+  {http://www.dnr.louisiana.gov/assets/docs/oilgas/naturalgas/hurricanes_report_2005.pdf}
+  {\enquote {\bibinfo {title} {{{Impact of the 2005 Hurricanes on the Natural
+  Gas Industry in the Gulf of Mexico Region}}},}\ } (\bibinfo {year}
+  {2006})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Miller}(nd)}]{MillerPaper}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.~I.}\ \bibnamefont
+  {Miller}},\ }\href {https://www.hsdl.org/?view&did=236103} {\enquote
+  {\bibinfo {title} {{Hurricane Katrina: Communications and Infrastructure
+  Impacts}},}\ } (\bibinfo {year} {n.d.})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Samuelson}(2005)}]{samuelson_2005}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.~J.}\ \bibnamefont
+  {Samuelson}},\ }\href
+  {https://web.archive.org/web/20050907052950/http://www.msnbc.msn.com/id/9190518/site/newsweek/}
+  {\enquote {\bibinfo {title} {Hitting the economy},}\ } (\bibinfo {year}
+  {2005}),\ \bibinfo {note} {accessed via the internet archive, Wayback
+  Machine}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Grizzard}(2005)}]{grizzard_2005}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {K.}~\bibnamefont
+  {Grizzard}},\ }\href
+  {https://web.archive.org/web/20051112164434/http://www.mfc.state.ms.us/pdf/katrina/timberdamage.pdf}
+  {\enquote {\bibinfo {title} {{{Forestry Commission Reports \$2.4 Billion of
+  Tree Damage}}},}\ } (\bibinfo {year} {2005})\BibitemShut {NoStop}%
+\bibitem [{ent(nd)}]{entergy}%
+  \BibitemOpen
+  \href {https://www.entergy.com/about_entergy/} {\enquote {\bibinfo {title}
+  {About us},}\ } (\bibinfo {year} {n.d.})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Walton}(2015)}]{walton_2015}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.}~\bibnamefont
+  {Walton}},\ }\href
+  {https://www.power-grid.com/2015/08/24/ten-years-after-how-entergy-new-orleans-survived-hurricane-katrina/#gref}
+  {\enquote {\bibinfo {title} {{{Ten Years After: How Entergy New Orleans
+  survived Hurricane Katrina}}},}\ } (\bibinfo {year} {2015})\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Laverty}(2005)}]{laverty_2005}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {G.}~\bibnamefont
+  {Laverty}},\ }\href
+  {https://web.archive.org/web/20051028183902/http://quote.bloomberg.com/apps/news?pid=10000006&sid=aF9SxgEvDm.Y&refer=home}
+  {\enquote {\bibinfo {title} {{{Oil, Gas May Soar as Storm Shuts U.S. Gulf
+  Production}}},}\ } (\bibinfo {year} {2005})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {{U.S. Bureau of Economic
+  Analysis}}(2019)}]{NOLA_GDP_data}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {{U.S. Bureau of
+  Economic Analysis}}},\ }\href@noop {} {\enquote {\bibinfo {title} {{Total
+  Gross Domestic Product for New Orleans-Metairie, LA (MSA) [NGMP35380]}},}\ }
+  (\bibinfo {year} {2019}),\ \bibinfo {note} {retrieved from FRED, Federal
+  Reserve Bank of St. Louis;
+  \url{https://fred.stlouisfed.org/series/NGMP35380}}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {{U.S. Bureau of Labor
+  Statistics}}(2020)}]{NOLA_unemployment_data}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {{U.S. Bureau of Labor
+  Statistics}}},\ }\href@noop {} {\enquote {\bibinfo {title} {{Unemployment
+  Rate in New Orleans-Metairie, LA (MSA) [NEWO322URN]}},}\ } (\bibinfo {year}
+  {2020}),\ \bibinfo {note} {retrieved from FRED, Federal Reserve Bank of St.
+  Louis; \url{https://fred.stlouisfed.org/series/NEWO322URN}}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Meys}\ and\ \citenamefont
+  {Franzi}(2018)}]{meys_franzi_2018}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {B.}~\bibnamefont
+  {Meys}}\ and\ \bibinfo {author} {\bibfnamefont {C.~O.}\ \bibnamefont
+  {Franzi}},\ }\href
+  {https://www.camoinassociates.com/after-storm-economic-recovery-after-katrina-and-sandy}
+  {\enquote {\bibinfo {title} {After the storm: Economic recovery after katrina
+  and sandy},}\ } (\bibinfo {year} {2018})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Ferris}\ and\ \citenamefont
+  {Solís}(2013)}]{ferris_2013}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {E.}~\bibnamefont
+  {Ferris}}\ and\ \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Solís}},\ }\href
+  {https://www.brookings.edu/blog/up-front/2013/03/11/earthquake-tsunami-meltdown-the-triple-disasters-impact-on-japan-impact-on-the-world/}
+  {\enquote {\bibinfo {title} {{{Earthquake, Tsunami, Meltdown – The Triple
+  Disaster's Impact on Japan, Impact on the World}}},}\ } (\bibinfo {year}
+  {2013})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Buerk}(2011)}]{buerk_2011}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.}~\bibnamefont
+  {Buerk}},\ }\href
+  {https://web.archive.org/web/20110312003317/http://www.bbc.co.uk/news/world-asia-pacific-12709598}
+  {\enquote {\bibinfo {title} {Japan earthquake: Tsunami hits north-east},}\ }
+  (\bibinfo {year} {2011})\BibitemShut {NoStop}%
+\bibitem [{npa(2020)}]{npa_2020}%
+  \BibitemOpen
+  \href {https://www.npa.go.jp/news/other/earthquake2011/pdf/higaijokyo_e.pdf}
+  {\enquote {\bibinfo {title} {{Police Countermeasures and Damage Situation
+  associated with 2011 Tohoku district - off the Pacific Ocean Earthquake}},}\
+  } (\bibinfo {year} {2020})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Nanto}\ \emph {et~al.}(2011)\citenamefont {Nanto},
+  \citenamefont {Cooper}, \citenamefont {Donnelly},\ and\ \citenamefont
+  {Johnson}}]{nanto_2011}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.~K.}\ \bibnamefont
+  {Nanto}}, \bibinfo {author} {\bibfnamefont {W.~H.}\ \bibnamefont {Cooper}},
+  \bibinfo {author} {\bibfnamefont {J.~M.}\ \bibnamefont {Donnelly}}, \ and\
+  \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {Johnson}},\ }\href
+  {https://fas.org/sgp/crs/row/R41702.pdf} {\enquote {\bibinfo {title}
+  {{Japan's 2011 Earthquake and Tsunami: Economic Effects and Implications for
+  the United States}},}\ } (\bibinfo {year} {2011})\BibitemShut {NoStop}%
+\bibitem [{you(2012)}]{youtube_2012}%
+  \BibitemOpen
+  \href {https://www.youtube.com/watch?v=YBNFvZ6Vr2U} {\emph {\bibinfo {title}
+  {{Understanding the Accident of Fukushima Daiichi}}}}\ (\bibinfo  {publisher}
+  {Institut de Radioprotection et de Sûreté Nucléaire},\ \bibinfo {year}
+  {2012})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {McCurry}(2017)}]{mccurry_2017}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {McCurry}},\ }\href
+  {https://www.theguardian.com/environment/2017/jan/31/possible-nuclear-fuel-find-fukushima-plant}
+  {\enquote {\bibinfo {title} {{Possible Nuclear Fuel Find Raises Hopes of
+  Fukushima Plant Breakthrough}},}\ } (\bibinfo {year} {2017})\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Harlan}(2012)}]{harlan_2012}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {C.}~\bibnamefont
+  {Harlan}},\ }\href
+  {https://www.washingtonpost.com/world/asia_pacific/for-japan-shutting-down-nuclear-plants-brings-surge-in-oil-gas-imports/2012/04/07/gIQAGwPx1S_story.html}
+  {\enquote {\bibinfo {title} {{For Japan, Shutting Down Nuclear Plants Brings
+  Surge in Oil, Gas Imports}},}\ } (\bibinfo {year} {2012})\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Rubin}(2011)}]{rubin_2011}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Rubin}},\ }\href
+  {https://www.huffpost.com/entry/setsuden-japan-nuclear-free_b_916123?guccounter=1&guce_referrer=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnLw&guce_referrer_sig=AQAAAGLqQcuE32oNT4y-psr-G5Zhkb7OTRLuA1F-AtjV4D4R0XizFx1U1HSF4-K4JbXVBpQPzDwQ5W9GLVEXzUbRg6jjUs0fepJVJ3bghJNjDsSWTxtGMQbIljvuf3SPEyOtwYFbSkBE7yPZjxAFBZqF0s4O1srBqf3HQb0i7x8DpcP5}
+  {\enquote {\bibinfo {title} {Setsuden poised to replace nuclear power in
+  japan},}\ } (\bibinfo {year} {2011})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {{World Bank}}(2019)}]{JPN_GDP_data}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {{World Bank}}},\
+  }\href@noop {} {\enquote {\bibinfo {title} {{Gross Domestic Product for Japan
+  [MKTGDPJPA646NWDB]}},}\ } (\bibinfo {year} {2019}),\ \bibinfo {note}
+  {retrieved from FRED, Federal Reserve Bank of St. Louis;
+  \url{https://fred.stlouisfed.org/series/MKTGDPJPA646NWDB}}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {{Organization for Economic Co-operation and
+  Development}}(2020)}]{JPN_unemployment_data}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {{Organization for
+  Economic Co-operation and Development}}},\ }\href@noop {} {\enquote {\bibinfo
+  {title} {{Unemployment Rate: Aged 15-64: All Persons for Japan
+  [LRUN64TTJPM156S]}},}\ } (\bibinfo {year} {2020}),\ \bibinfo {note}
+  {retrieved from FRED, Federal Reserve Bank of St. Louis;
+  \url{https://fred.stlouisfed.org/series/LRUN64TTJPM156S}}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Amadeo}(2020{\natexlab{b}})}]{amadeo_2020}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {K.}~\bibnamefont
+  {Amadeo}},\ }\href
+  {https://www.thebalance.com/japan-s-2011-earthquake-tsunami-and-nuclear-disaster-3305662}
+  {\enquote {\bibinfo {title} {{How the 2011 Earthquake in Japan Affected the
+  Global Economy}},}\ } (\bibinfo {year} {2020}{\natexlab{b}})\BibitemShut
+  {NoStop}%
+\end{thebibliography}%

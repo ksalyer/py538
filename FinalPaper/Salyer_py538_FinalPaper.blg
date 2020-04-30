@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Salyer_py538_FinalPaper.aux
+The style file: apsrev4-1.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: Salyer_py538_FinalPaperNotes.bib
+Database file #2: Salyer_py538_FinalPaperBiblio.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+merlin.mbs apsrev4-1.bst 2010-07-25 4.21a (PWD, AO, DPC) hacked
+Control: key (0) 
+Control: author (72) initials jnrlst
+Control: editor formatted (1) identically to author
+Control: production of article title (-1) disabled
+Control: page (0) single
+Control: year (1) truncated
+Control: production of eprint (0) enabled
+Warning--empty author and editor in youtube_2012
+You've used 26 entries,
+            5847 wiz_defined-function locations,
+            1769 strings with 20738 characters,
+and the built_in function-call counts, 16594 in all, are:
+= -- 1293
+> -- 264
+< -- 79
++ -- 117
+- -- 58
+* -- 2341
+:= -- 1937
+add.period$ -- 48
+call.type$ -- 26
+change.case$ -- 131
+chr.to.int$ -- 25
+cite$ -- 35
+duplicate$ -- 1575
+empty$ -- 1221
+format.name$ -- 150
+if$ -- 3102
+int.to.chr$ -- 2
+int.to.str$ -- 34
+missing$ -- 149
+newline$ -- 130
+num.names$ -- 66
+pop$ -- 696
+preamble$ -- 1
+purify$ -- 130
+quote$ -- 0
+skip$ -- 662
+stack$ -- 0
+substring$ -- 402
+swap$ -- 1288
+text.length$ -- 23
+text.prefix$ -- 0
+top$ -- 8
+type$ -- 314
+warning$ -- 1
+while$ -- 46
+width$ -- 0
+write$ -- 240
+(There was 1 warning)

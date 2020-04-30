@@ -1,0 +1,18 @@
+\contentsline {title}{Economic Effects of Natural Disasters}{1}{}
+\contentsline {abstract}{Abstract}{1}{}
+\tocdepth@munge 
+\contentsline {section}{\numberline {}Contents}{1}{}
+\tocdepth@restore 
+\contentsline {section}{\numberline {I}Introduction}{1}{}
+\contentsline {section}{\numberline {II}Hurricane Katrina: 2005}{1}{}
+\contentsline {subsection}{\numberline {A} Social and Economic Context}{1}{}
+\contentsline {subsection}{\numberline {B} Direct Impacts}{2}{}
+\contentsline {subsection}{\numberline {C} Indirect Economic Impacts}{2}{}
+\contentsline {subsection}{\numberline {D} Recovery Methods}{3}{}
+\contentsline {section}{\numberline {III}Fukushima Nuclear Disaster: 2011}{4}{}
+\contentsline {subsection}{\numberline {A} Social and Economic Context}{4}{}
+\contentsline {subsection}{\numberline {B} Direct Economic Impacts}{4}{}
+\contentsline {subsection}{\numberline {C} Indirect Economic Impacts}{4}{}
+\contentsline {subsection}{\numberline {D} Recovery Methods}{4}{}
+\contentsline {section}{\numberline {IV}Discussion}{4}{}
+\contentsline {section}{\numberline {}References}{5}{}
